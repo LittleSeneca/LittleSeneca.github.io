@@ -55,7 +55,6 @@ enforce_ssl: https://littleseneca.github.io/
 baseurl: /
 url: http://littleseneca.github.io
 
-remote_theme: benbalter/retlab
 #
 # !! You don't need to change any of the configuration flags below !!
 #
