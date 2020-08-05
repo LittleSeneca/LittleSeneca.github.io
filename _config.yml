@@ -9,7 +9,7 @@ name: Graham Brooks
 author: Graham Brooks
 
 # Short bio or description (displayed in the header)
-description: Portfolio Site
+description: Devops Personal Body of Work
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -24,9 +24,9 @@ footer-links:
   email: graham.brooks@protonmail.com
   facebook:
   flickr:
-  github: https://github.com/LittleSeneca
+  github: LittleSeneca
   instagram:
-  linkedin: https://www.linkedin.com/in/graham-w-brooks/
+  linkedin: in/graham-w-brooks/
   pinterest:
   rss: rss
   twitter:
