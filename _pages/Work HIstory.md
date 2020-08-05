@@ -6,7 +6,7 @@ permalink: /Work_History/
 
 ## Schweitzer Engineering Laboratories - IT Technician
 ### August 2018 - Present 
-In my current role in PC Help, I act as the primary customer results professional for all software related questions internal to Schweitzer Engineering Laboratories. I respond an average of thirty to fifty calls per day and provide tier one and two services to the customers I assist. I also frequently escalate service requests to other internal groups and external vendors with professionalism and care. Currently, I am creating and improving work instructions in conjunction with our management team as we role out World Class Manufacturing principles to our Help Desk team. 
+In my current role in Client Experience, I am the primary investigator  as the primary customer results professional for all software related questions internal to the organization. I respond an average of thirty to fifty calls per day and provide tier one and two services to the customers I assist. I also frequently escalate service requests to other internal groups and external vendors with professionalism and care. Currently, I am creating and improving work instructions in conjunction with our management team as we role out World Class Manufacturing principles to our Help Desk team. 
 
 ## Washington State University – IT Technician
 ### October 2016 – August 2018
