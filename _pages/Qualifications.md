@@ -9,7 +9,7 @@ permalink: /Qualifications/
 ### Washington State University - May 2018
 
 <p align="center">
-    [<img width="200" src="/images/WSU_Voiland_CEA.png">](https://vcea.wsu.edu/)
+    <img width="200" src="/images/WSU_Voiland_CEA.png">
 </p>
 
 ## Red Hat Certified Systems Administrator
