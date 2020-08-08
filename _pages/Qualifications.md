@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Certifications
-permalink: /Certifications/
+title: Qualifications
+permalink: /Qualifications/
 ---
 
 # Degrees
