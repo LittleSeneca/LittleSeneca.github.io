@@ -6,9 +6,9 @@ permalink: /Qualifications/
 
 # Degrees
 ## Bachelors of Civil Engineering
-### May 2018
+### Washington State University - May 2018
 
-[<img align="center" src="/images/WSU_Voiland_CEA.png">](https://vcea.wsu.edu/)
+[<img width="200" src="/images/WSU_Voiland_CEA.png">](https://vcea.wsu.edu/)
 
 ## Red Hat Certified Systems Administrator
 ### Pending - September 2020
