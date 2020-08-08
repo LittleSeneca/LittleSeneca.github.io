@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Domain Integrated Linux Deployments
-categories: [Linux, Domain]
+categories: [Bash,Linux,Code,Domain,Github]
 excerpt: A project which integrates Ubuntu 20.04 into an existing Active Directory Domain
 ---
 
