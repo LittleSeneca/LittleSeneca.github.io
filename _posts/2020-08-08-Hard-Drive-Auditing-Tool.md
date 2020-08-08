@@ -6,7 +6,7 @@ categories: [Bash,Linux,Code,Github]
 
 # Introduction
 [<img align="left" src="/images/GitHub_Logo.png" width="100">](https://github.com/LittleSeneca/hard-drive-auditor)
-  Many organizations have stacks of hard drives laying around the office.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many organizations have stacks of hard drives laying around the office.
 Many of these hard drives are unlabeled. Thats dangerous!
 This tool provides a fast process to quickly analyze hard drives 
 for their file contents. No need to manually click through file systems.
