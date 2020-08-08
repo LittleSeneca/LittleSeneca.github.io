@@ -4,6 +4,10 @@ title:  Clonezilla ISO Builder
 categories: [Bash,Linux,Code,Github]
 ---
 
+<img src="GitHub_Logo.png"
+     alt="Git Logo"
+     style="float: left; margin-right: 10px;" />
+
 # Introduction
 [Clonezilla is awesome!](https://clonezilla.org/) By default it has a huge amount of power. But, with a bit of
 effort, its existing utility can be greatly expanded. Unfortunately, it can be very cumbersome to unpackage and
