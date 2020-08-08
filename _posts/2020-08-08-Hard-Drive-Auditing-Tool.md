@@ -4,6 +4,12 @@ title:  Hard Drive Auditing Tool
 categories: [Bash,Linux,Code,Github]
 ---
 
+<img src="/images/GitHub_Logo.png"
+     alt="Git Logo"
+     style="float: left; margin-right: 10px;" 
+     width="200"
+     />
+
 # Introduction
 Many organizations have stacks of hard drives laying around the office.
 Many of these hard drives are unlabeled. Thats dangerous!
