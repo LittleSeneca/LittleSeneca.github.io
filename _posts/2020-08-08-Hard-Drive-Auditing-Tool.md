@@ -27,7 +27,7 @@ If the drive is a linux filesystem, it will output the root directory file
 system of the drive and state that it is a linux boot device. 
 
 # How to Use the tool
-First, you need to have a linux computer. <br/>
+First, you need to have a fully functional bash environment. <br/>
 Second, you need to download the repo - like this:
 
     git@github.com:LittleSeneca/hard-drive-auditor.git

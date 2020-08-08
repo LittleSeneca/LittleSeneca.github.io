@@ -14,7 +14,7 @@ live, home, EFI, and Boot folders. Currently, I have added a boot menu entry whi
 github repo and prompts the user to run a script from the pulled repo.
 
 # How to Use the tool
-First, you need to have a linux computer. <br/>
+First, you need to have a fully functional bash environment <br/>
 Second, you need to download the repo - like this:
 
     git clone git@github.com:LittleSeneca/clonezilla-builder.git
