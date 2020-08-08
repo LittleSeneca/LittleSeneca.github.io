@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cloneailla ISO Builder
+title:  Clonezilla ISO Builder
 categories: [Bash,Linux,Code,Github]
 ---
 
