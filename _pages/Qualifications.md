@@ -4,7 +4,6 @@ title: Qualifications
 permalink: /Qualifications/
 ---
 
-# Degrees
 ## Bachelors of Civil Engineering
 ### Washington State University - May 2018
 
@@ -12,7 +11,6 @@ permalink: /Qualifications/
     <img width="200" src="/images/WSU_Voiland_CEA.png">
 </p>
 
-# Certifications
 ## Red Hat Certified Systems Administrator
 ### Pending - September 2020
 Currently studying for this cert.
