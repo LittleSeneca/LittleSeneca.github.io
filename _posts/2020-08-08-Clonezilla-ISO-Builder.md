@@ -4,17 +4,12 @@ title:  Clonezilla ISO Builder
 categories: [Bash,Linux,Code,Github]
 ---
 
-<img src="/images/GitHub_Logo.png"
-     alt="Git Logo"
-     style="float: left; margin-right: 10px;" 
-     width="100"/>
-
 # Introduction
-[Clonezilla is awesome!](https://clonezilla.org/) By default it has a huge amount of power. But, with a bit of
-effort, its existing utility can be greatly expanded. Unfortunately, it can be very cumbersome to unpackage and
-repackage a clonezilla image. That is why I built this tool. It efficiently unpackes and repackes clonezilla 
-images with changes made to the syslinux, live, home, EFI, and Boot folders. Currently, I have added a boot
-menu entry which pulls a user determined github repo and prompts the user to run a script from the pulled repo.
+<img align="left" src="/images/GitHub_Logo.png" width="100">[Clonezilla is awesome!](https://clonezilla.org/) By default it has a huge amount of power. But, with a bit of effort, its existing utility can be greatly expanded. 
+Unfortunately, it can be very cumbersome to unpackage and repackage a clonezilla image. That is why I built 
+this tool. It efficiently unpackes and repackes clonezilla  images with changes made to the syslinux, 
+live, home, EFI, and Boot folders. Currently, I have added a boot menu entry which pulls a user determined 
+github repo and prompts the user to run a script from the pulled repo.
 
 # How to Use the tool
 First, you need to have a linux computer. <br/>
