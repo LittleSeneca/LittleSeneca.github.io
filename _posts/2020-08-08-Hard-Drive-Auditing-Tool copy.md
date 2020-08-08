@@ -4,7 +4,7 @@ title:  Clonezilla ISO Builder
 categories: [Bash,Linux,Code,Github]
 ---
 
-<img src="GitHub_Logo.png"
+<img src="/images/GitHub_Logo.png"
      alt="Git Logo"
      style="float: left; margin-right: 10px;" />
 
