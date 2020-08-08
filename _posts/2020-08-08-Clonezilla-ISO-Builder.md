@@ -8,7 +8,7 @@ categories: [Bash,Linux,Code,Github]
 [<img align="left" src="/images/GitHub_Logo.png" width="100">](https://github.com/LittleSeneca/clonezilla-builder)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Clonezilla is awesome!](https://clonezilla.org/) By default it has a huge amount of power. 
 But, with a bit of effort, its existing utility can be greatly expanded. 
-Unfortunately, it can be very cumbersome to unpackage and repackage a clonezilla image. That is why I built 
+Unfortunately, it can be very cumbersome to unpackage and repackage a clonezilla image to change its functionality. That is why I built 
 this tool. It efficiently unpackes and repackes clonezilla  images with changes made to the syslinux, 
 live, home, EFI, and Boot folders. Currently, I have added a boot menu entry which pulls a user determined 
 github repo and prompts the user to run a script from the pulled repo.
