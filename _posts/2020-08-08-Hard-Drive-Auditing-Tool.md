@@ -7,8 +7,7 @@ categories: [Bash,Linux,Code,Github]
 <img src="/images/GitHub_Logo.png"
      alt="Git Logo"
      style="float: left; margin-right: 10px;" 
-     width="100"
-     />
+     width="100"/>
 
 # Introduction
 Many organizations have stacks of hard drives laying around the office.
