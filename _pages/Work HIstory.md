@@ -5,11 +5,11 @@ permalink: /Work_History/
 ---
 
 ## Schweitzer Engineering Laboratories - Junior IT Analyst
-### August 2018 - Present 
+### September 2020 - Present 
 In this position, I am the owner of linux endpoint device support at Schweitzer Engineering Laboratories. In practice, I manage our Chef Automation and Central Management platform, troubleshoot end user linux issues, and create configurations which allow our Debian based linux infrastructure to integrate smoothly with our existing enterprise environment. In addition to these roles, I provide training for the Client Experience team and am the primary point of contact for escalating general troubleshooting requests. 
 
 ## Schweitzer Engineering Laboratories - IT Technician
-### August 2018 - Present 
+### August 2018 - September 2020 
 In my current role in Client Experience, I am the primary investigator  as the primary customer results professional for all software related questions internal to the organization. I respond an average of thirty to fifty calls per day and provide tier one and two services to the customers I assist. I also frequently escalate service requests to other internal groups and external vendors with professionalism and care. Currently, I am creating and improving work instructions in conjunction with our management team as we role out World Class Manufacturing principles to our Help Desk team. 
 
 ## Washington State University – IT Technician
