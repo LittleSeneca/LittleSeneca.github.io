@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hard Drive Auditing Tool
+title:  Hard Disk Auditor
 categories: [Bash,Linux,Code,Github]
 ---
 
