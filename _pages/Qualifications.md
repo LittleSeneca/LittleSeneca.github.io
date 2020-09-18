@@ -12,13 +12,8 @@ permalink: /Qualifications/
 </p>
 
 ## Red Hat Certified Systems Administrator
-### Pending - September 2020
-Currently studying for this cert.
+### September 2020
 
-## AWS Solutions Architect
-### Pending - December 2021
-Will transition to studying for Solutions Architect next.
-
-## CompTIA Security+
-### Pending - March 2021
-Will then work towards the Security+ exam.
+<p align="center" href="https://rhtapps.redhat.com/certifications/badge/verify/YN5HI2BTQPKTC4FVOK3L7A57MUAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=">
+    <img width="200" src="/images/RHCSA.png" >
+</p>
